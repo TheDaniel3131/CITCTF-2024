@@ -1,0 +1,3 @@
+flag: CIT{F1rst_Fl4g}
+
+it is in the description
