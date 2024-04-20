@@ -1,0 +1,3 @@
+fill black color in the bg and you will find the hidden flag
+
+flag: CIT{f1r3_th1s_1nt3rn}
