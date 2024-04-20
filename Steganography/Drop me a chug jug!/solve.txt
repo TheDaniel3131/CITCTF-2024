@@ -1,0 +1,12 @@
+audacity spectogram.
+
+flag: CIT{f0rtN1T3_r0nnI369!}
+
+
+
+how?
+
+basically you can't see clearly with the default setting so you have to drag shift + scroll down to make the text column bigger.
+
+
+view: https://imgur.com/a/r2CsS9R
