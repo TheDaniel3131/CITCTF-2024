@@ -1,0 +1,8 @@
+I love morse code!
+
+flag: CIT{q#@4&L*RuSgSj^a78ywa}
+
+
+This challenge creator really like Base32 huh? After morse decoded, you get this base32 text: INEVI63RENADIJSMFJJHKU3HKNVF4YJXHB4XOYL5
+
+then decode the base32 to ASCII and you get the flag! 
