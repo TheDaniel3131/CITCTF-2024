@@ -1,0 +1,9 @@
+https://www.pdffiller.com/jsfiller-desk12/?flat_pdf_quality=low&requestHash=36c7bfe23fb3ef22f7ae2c80486fb82271c8bc4df62781a1d8dbce61bb7a3a5d&projectId=1500522203&PAGE_REARRANGE_V2_MVP=true&richTextFormatting=true&isPageRearrangeV2MVP=true&jsf-page-rearrange-v2=true&jsf-dss-v2=false&LATEST_PDFJS=true&jsf-document-scroll-zoom=true&jsf-redesign-full=true&act-notary-pro-integration=false&jsf-pdfjs-fourth=false&routeId=d798dd378d046b94628f0d64f43db446#6fa7df996dca4d89a5a513636ffd14fc
+
+I am using PDFFiller to remove the black bars/filled background.
+
+
+and you will find the sponsor called Sir Swaggy
+
+
+flag: CIT{Sir_Swaggy}
