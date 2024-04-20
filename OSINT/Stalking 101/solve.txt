@@ -1,0 +1,16 @@
+Stalking 101
+650
+Hi, my name is Amos. I'm a big fan of the University of New Haven Chargers, and I just learned about this new social media called X! Pretty dumb name. Find my handle for some points.
+
+Flag format: CIT{@xxxxx}
+
+
+
+
+
+
+
+Name: Amos
+School: University of New Haven Chargers
+Social Media: Twitter/X
+
