@@ -1,0 +1,9 @@
+I tried steghide but could not extract anything with the passphrase "PRIME"
+
+so that left me with another solution.
+
+strings meta-moon.jpg
+
+and flag is arrived!
+
+flag: CIT{meta_moon_prime_yummy}
