@@ -1,0 +1,8 @@
+flag: CIT{1m_4_r0b0t}
+
+https://ctf.cyber-cit.club/robots.txt
+
+
+User-agent: *
+Disallow: /admin
+CIT{1m_4_r0b0t}
