@@ -1,0 +1,3 @@
+When register a new team, I saw this flag
+
+flag: CIT{Y0U_H4V3_3Y3S!}
